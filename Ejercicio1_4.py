@@ -9,4 +9,3 @@ a= float(input("Digite el valor de a con al al menos un decimal: "))
 b= float(input("Digite el valor de b con al al menos un decimal: "))
 c=a*b
 print(f"El resultado de la multiplicación es {c}")
-
